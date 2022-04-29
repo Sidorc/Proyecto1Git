@@ -1,0 +1,7 @@
+Esta versioón d eeste archivo la volver en el pasdo a su 
+versión inicial , apareció vacio totalmente por lo que 
+es la razon de copiar esto, explicando el porque lo hice
+
+usamos el modo --hard borrando todo lo hecho anteriormente 
+es volver al pasado de este archivo d euna manera forzada 
+, hay q tener mucho cuidado la usarlo.
