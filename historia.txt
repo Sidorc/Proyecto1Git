@@ -5,3 +5,8 @@ es la razon de copiar esto, explicando el porque lo hice
 usamos el modo --hard borrando todo lo hecho anteriormente 
 es volver al pasado de este archivo d euna manera forzada 
 , hay q tener mucho cuidado la usarlo.
+
+En este punto de la edición de este archivo ya crree un archivo
+html y una carpeta css con un archivo de estilos dentro , ahora 
+haré un anexo a este para posteriormente addetiar y....
+
