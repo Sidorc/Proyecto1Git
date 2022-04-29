@@ -11,3 +11,6 @@ html y una carpeta css con un archivo de estilos dentro , ahora
 haré un anexo a este para posteriormente addetiar y....commitiar 
 finalemente
 
+Agrego esto por q no quiero perder lo anterior copiado ,voy hacer
+otra adicion para pillar el uso del chekout 
+
