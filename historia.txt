@@ -1,18 +1,17 @@
 Esta versioón d eeste archivo la volver en el pasdo a su 
 versión inicial , apareció vacio totalmente por lo que 
 es la razon de copiar esto, explicando el porque lo hice
-
 usamos el modo --hard borrando todo lo hecho anteriormente 
 es volver al pasado de este archivo d euna manera forzada 
 , hay q tener mucho cuidado la usarlo.
-
 En este punto de la edición de este archivo ya crree un archivo
 html y una carpeta css con un archivo de estilos dentro , ahora 
 haré un anexo a este para posteriormente addetiar y....commitiar 
 finalemente
-
 Agrego esto por q no quiero perder lo anterior copiado ,voy hacer
 otra adicion para pillar el uso del chekout 
-
 En este punto ya use el checkout y voy  adejarlo definitivo a partir 
 de aca
+
+Y agrego linea para hacer modificicaciones q pueda subir a github y 
+luego devolverme , aun no se hace
